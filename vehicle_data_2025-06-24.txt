@@ -1,0 +1,134 @@
+Timestamp | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+--------------------------------------------------------------------------------
+2025-06-24 18:02:51 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 18:02:51 | 8 | Auto Rickshaw | Black | Bajaj
+2025-06-24 19:02:29 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:02:29 | B | Auto Rickshaw | Black | Bajaj
+2025-06-24 19:03:29 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:03:29 | MH04KW1134 | SUV | Grey | Hyundai
+2025-06-24 19:04:34 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:04:34 | MH02DG1950 | Sedan | White | Renault
+2025-06-24 19:04:38 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:04:38 | N/A | Car/Scooter | White | N/A
+2025-06-24 19:04:41 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:04:41 |  | Motorcycle | White | 
+2025-06-24 19:05:04 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:05:04 | N/A | Scooter | Black/White | N/A
+2025-06-24 19:05:09 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:05:09 |  | Motorcycle | White | Honda
+2025-06-24 19:05:10 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:05:10 | 59 | Scooter | White | Honda
+2025-06-24 19:05:51 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:05:51 | N/A | SUV | Silver | N/A
+2025-06-24 19:06:00 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:06:00 | (Not Visible) | SUV | Silver | (Not Visible)
+2025-06-24 19:06:19 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:06:19 | Not visible | Scooter | Gray/Silver | Unknown
+2025-06-24 19:06:23 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:06:23 | MH 12 EN 7564 | Motorcycle | Black/Grey | 
+2025-06-24 19:06:27 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:06:27 | MH 12EN 7564 | Motorcycle | Gray | 
+2025-06-24 19:06:40 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:06:40 | MH 04 F 7514, MH 12 DY 2707 | Scooter | Gray | Honda
+2025-06-24 19:06:41 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:06:41 | AP 16 EG 3787 | Scooter | Silver | Likely Honda (based on the "Activa" badge visible on the vehicle)
+2025-06-24 19:07:56 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:07:56 | MH12VF9934 | Sedan | White | Suzuki
+2025-06-24 19:09:29 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:09:29 |  | Auto Rickshaw | White | Bajaj
+2025-06-24 19:09:31 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:09:31 |  | Auto Rickshaw | White, Yellow | Bajaj
+2025-06-24 19:09:36 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:09:36 | MH12V B6898 | Auto Rickshaw | Black and Yellow | Bajaj
+2025-06-24 19:09:50 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:09:50 | N/A | Scooter | Black | N/A
+2025-06-24 19:10:45 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:10:45 | MH 12T U3725 | Auto Rickshaw | Black/Yellow | Bajaj
+2025-06-24 19:10:58 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:10:58 | 41B164 | Motorbike | Black | 
+2025-06-24 19:11:08 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:11:08 | MH41BK4164 | Motorcycle | Black | Unknown
+2025-06-24 19:11:10 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:11:10 | N/A | Scooter | White | N/A
+2025-06-24 19:11:14 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:11:14 |  | Motorcycle | White | Activa
+2025-06-24 19:13:27 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:13:27 | 98 | Auto rickshaw | Black and Yellow | Unknown
+2025-06-24 19:16:14 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:16:14 |  | Van | White | 
+2025-06-24 19:16:16 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:16:16 |  | Van | White | Maruti Suzuki
+2025-06-24 19:16:28 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:16:28 | N/A | Truck | White | N/A
+2025-06-24 19:19:37 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:19:37 | MH12NU1228 | Hatchback | Grey | Honda
+2025-06-24 19:21:02 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:21:02 | 367 | Auto Rickshaw | Black | Unknown
+2025-06-24 19:22:14 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:22:14 | N/A | Motorcycle | Black | N/A
+2025-06-24 19:23:19 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:23:19 | N/A | Scooter | Dark Grey | N/A
+2025-06-24 19:23:26 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:23:26 | (Appears Present, Partially Visible) | Scooter | Black | Honda
+2025-06-24 19:23:29 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:23:29 | 149 | Motorcycle | Black | Activa
+2025-06-24 19:23:30 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:23:30 | N/A | Scooter | Grey | N/A
+2025-06-24 19:23:34 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:23:34 | MA 61 EG 3 | Scooter | Black | 
+2025-06-24 19:23:44 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:23:44 | AP28D5820 | Motorcycle | Black | Hero
+2025-06-24 19:24:33 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:24:33 |  | Car | Silver | Toyota
+2025-06-24 19:25:21 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:25:21 | N/A | Motorcycle | Black | N/A
+2025-06-24 19:25:30 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:25:30 | MH.13.MJ.4653 | Motorcycle | Black | Unknown
+2025-06-24 19:30:15 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:30:15 |  | Auto Rickshaw | Black | 
+2025-06-24 19:30:38 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:30:38 | B | Auto Rickshaw | Black, Yellow | Bajaj
+2025-06-24 19:31:27 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:31:27 | MH04KW1134 | SUV | Gray | Hyundai
+2025-06-24 19:31:29 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:31:29 | MH04KW1134 | SUV | Gray | Hyundai
+2025-06-24 19:32:30 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:32:30 | MH02DG1950 | Sedan | White | Renault
+2025-06-24 19:32:34 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:32:34 |  | Motorcycle/Scooter | White | 
+2025-06-24 19:32:52 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:32:52 | MH02DG1950 | Sedan | White | Renault
+2025-06-24 19:32:57 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:32:57 | N/A | Car/Scooter | White | N/A
+2025-06-24 19:32:58 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:32:58 | N/A | Motorcycle | White | N/A
+2025-06-24 19:33:29 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:33:29 | N/A | Scooter | Black and White | N/A
+2025-06-24 19:33:35 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:33:35 | N/A | Motorcycle | White | N/A
+2025-06-24 19:33:35 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:33:35 | 29 | Scooter | White | Honda
+2025-06-24 19:34:10 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:10 | N/A | SUV | Silver | N/A
+2025-06-24 19:34:15 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:15 | N/A | SUV | Silver | N/A
+2025-06-24 19:34:26 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:26 | MH 12 EN 7564 | Motorcycle | Black | 
+2025-06-24 19:34:28 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:28 | MH 12 EN 7564 | Scooter/Bike | Gray | 
+2025-06-24 19:34:30 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:30 | N/A | Scooter | Black | N/A
+2025-06-24 19:34:37 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:37 | MH 14 DU 2707/754 | Scooter | Silver | Honda
+2025-06-24 19:34:38 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:34:38 | KL19 B63787 | Scooter | Gray | Honda
+2025-06-24 19:35:53 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:35:53 | MH12VF9934 | Sedan | White | Suzuki
+2025-06-24 19:36:57 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:36:57 |  | Auto Rickshaw | White | Bajaj
+2025-06-24 19:37:00 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:37:00 |  | Auto Rickshaw | White, Yellow, Silver | Bajaj
+2025-06-24 19:37:05 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:37:05 | MH12V B6898 | Auto Rickshaw | Yellow/Black | Bajaj
+2025-06-24 19:37:21 | Numberplate | Vehicle Type | Vehicle Color | Vehicle Company
+2025-06-24 19:37:21 | N/A | Scooter | Black | N/A
