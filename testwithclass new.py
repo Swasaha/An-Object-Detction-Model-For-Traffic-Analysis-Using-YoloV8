@@ -149,8 +149,8 @@ class VehicleDetectionProcessor:
 
 # Example usage:
 if __name__ == "__main__":
-    video_file = "/Users/swast/Downloads/yolo11-genai-feature-vehicle-detetcion-main/yolo11-genai-feature-vehicle-detetcion-main/ind1.mp4.mp4"
+    video_file = "_________________COPY FILE PATH"
 
-    api_key = "AIzaSyCKl5dM8_pwh2Q7Edl1EUAV5rSKMGqi0Io"  # Replace with your actual API key
+    api_key = ""  # Replace with your actual API key
     processor = VehicleDetectionProcessor(video_file, api_key)
     processor.start_processing()
